@@ -7,3 +7,5 @@ import seaborn as sns
 import numpy as np
 '''
 
+where is the preview on this thing?
+
