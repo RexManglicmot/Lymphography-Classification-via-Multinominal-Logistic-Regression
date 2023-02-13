@@ -15,7 +15,13 @@ import numpy as np
 
 ## Loading the Data
 ```
+# load the data from the UCI website into an object
+data_source = 'https://archive.ics.uci.edu/ml/machine-learning-databases/lymphography/lymphography.data'
 
+#store into a panda dataframe
+data_orig = pd.read_csv(data_scource)
+
+data_orig.head()
 ```
 
 ## Cleaning the Data
