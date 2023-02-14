@@ -1,4 +1,4 @@
-# Lymphograhy Classificatin via Multinominal Logistic Regression
+# Lymphography Classification via Multinomial Logistic Regression
 
 ## Continuing Working document
 
