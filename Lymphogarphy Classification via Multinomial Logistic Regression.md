@@ -13,7 +13,8 @@ Things still need to do:
 ## Introduction
 ![](https://healthjade.net/wp-content/uploads/2019/12/lymph-node-infection.jpg)
 
-The lymph nodes are a specialized organ that is responsible for our bodies immune response.
+The lymph nodes are a specialized organ that is responsible for our bodies immune response. They are primary sites where many immune cells like T-cells and B-Cells, and Natural Killer cells are made to ward of microbial infections. 
+
 
 ## Loading the Libraries
 ```python
