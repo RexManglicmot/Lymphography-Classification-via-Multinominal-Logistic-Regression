@@ -3,7 +3,7 @@
 ## Continuing Working document
 
 Things still need to do:
-* How to run code chunks on Python Markdown...I may need help this bit. I Googled and Overstacked the heck out of it. 
+* How to run code chunks on Python Markdown...I may need help on this bit. I Googled and Overstacked the heck out of it. 
 * Flush out intro
 * Add more content to the MLR section such as what is it, applications, pros and cons
 * Grammar
@@ -73,6 +73,12 @@ Independent Variable:
 * Income
 * Occupation
 
+The Logistic Regression uses a Sigmoid function to determine whether an observation (y) is classified in one class or another. Here, it is binary class where y ∈ {0, 1}. In the case of Multinomial Logisitic Regression it uses a Softmax regression for classification. Here, we can have up to K classes, where y ∈ {1, 2, 3, ...k}. In Softmax, it predicts the class of an observation by calculating the probability among all the K classes.
+
+![](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/03/26140357/Screenshot-2021-03-26-140320.png)
+
+There are 3 classifications; A, B, and C. In the exhibit above, each observation will have 3 models each with each own probability and the model with the highest probability, then that observation is categorized as such. 
+If P(A) > P(B) and P(A) > P(C), then the observation is classified as A.
 # Pros
 
 
