@@ -106,6 +106,8 @@ If P(A) > P(B) and P(A) > P(C), then the observation is classified as A.
 * Inapplicable to an ordinal dependent variable. In some data sets the dependent variables tend to have a natural
   ordering amongst them such as least likely to most likely. In datasets such as this, a different model is more
   appropiate (Ordinal Regression).
+* May not be accurate if the sample size is too small. 
+
 
 ```python
 #build out the model
