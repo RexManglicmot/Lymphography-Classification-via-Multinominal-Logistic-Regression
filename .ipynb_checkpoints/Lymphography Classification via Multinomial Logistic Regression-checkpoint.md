@@ -16,8 +16,9 @@ Things still need to do:
 ![](https://healthjade.net/wp-content/uploads/2019/12/lymph-node-infection.jpg)
 
 The lymph nodes are a specialized organ that is responsible for our bodies immune response. They are primary sites where
-many immune cells like T-cells and B-Cells, and Natural Killer cells are made to ward of microbial infections.
+many immune cells like T-cells and B-Cells, and Natural Killer cells are made to ward of microbial infections. The lymphatic system circulates around the body and colles excess waste and fluid. The uses of lymphagraphy is that can be used to see if a disease has stpead, map the lymphatic system in prepapration for sutgery and show whether treatmnets are working. 
 
+Lymphography is the use of x-rays to visually see the body's lymphatic system and allow physcians if there any lymphatic leaks amongst other issues. It i used to see if there are disease such as Hodkin lymphona or Non-Hodgkin lymphomas (cancers of the blood).
 ## Loading the Libraries
 
 ```python
