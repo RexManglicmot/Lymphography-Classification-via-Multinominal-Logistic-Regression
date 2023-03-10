@@ -6,6 +6,7 @@ Things still need to do:
 
 * How to run code chunks on Python Markdown...I may need help on this bit. I Googled and Overstacked the heck out of it.
   I still unable to figure it out. I'm stuck. Do I need to do this on Jupyter Notebook.
+* OK. PyCharm has the data science capability but it is only for premium. Need to use another avenue to do DS notebooks.
 * Flush out intro
 * Add more content to the MLR section such as what is it, applications, pros and cons
 * Grammar
